@@ -1,2 +1,3 @@
 # Expenses_App
-Expenses Application
+Expenses Application.
+Add more info
